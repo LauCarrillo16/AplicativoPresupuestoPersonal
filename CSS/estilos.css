@@ -1,0 +1,197 @@
+body{
+    background-color: #94D2BD;
+    margin: 0;
+}
+.cabecero{
+    background-color: #f4978e;
+    width: 100%;
+    height: 100%;
+    padding-bottom: 20px;
+}
+
+.derecha{
+    justify-content: space-between;
+    display: flex;
+}
+
+.disponible_titulo{
+    color: #9B2226;
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px;
+}
+
+.disponible_valor{
+    color: #005F73;
+    font-size: 4rem;
+    text-align: center;
+    padding: 15px;
+}
+
+.presupuesto_ingresos{
+    background-color: #0A9396;
+    text-align: center;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    width: 700px;
+    height: 50px;
+    margin: auto;
+    border-radius: 10px;
+    align-items: center;
+}
+.presupuesto_ingresos_texto{
+    color: #001219;
+    font-size: 30px;
+    padding-left: 30px;
+    
+}
+.presupuesto_ingresos_valor{
+    color: #001219;
+    font-size: 30px;
+    padding-right: 80px;
+}
+.presupuesto_ingresos_porcentaje{
+    color: #001219;
+    font-size: 30px;
+}
+
+.presupuesto_egresos{
+    background-color: #BB3E03;
+    text-align: center;
+    padding: 10px;
+    justify-content: space-between;
+    display: flex;
+    width: 700px;
+    height: 50px;
+    margin: auto;
+    border-radius: 10px;
+    align-items: center;
+    margin-top: 10px;
+}
+.presupuesto_egresos_texto{
+    color: #001219;
+    font-size: 30px;
+    padding-left: 30px;
+}
+.presupuesto_egresos_valor{
+    color: #001219;
+    font-size: 30px;
+    padding-right: 34px;
+}
+.presupuesto_egresos_porcentaje{
+    background-color: #AE2012;
+    border-radius: 10px;
+    color: #001219;
+    font-size: 30px;
+}
+
+.agregar{
+    background-color: #005F73;
+    justify-content: space-between;
+    text-align: center;
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+.agregar_contenedor{
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+.agregar_titulo{
+    background-color: #E9D8A6;
+    color: #001219;
+    border-radius: 7px;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.agregar_descripcion{
+    background-color: #E9D8A6;
+    border-radius: 7px;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.agregar_valor{
+    background-color: #E9D8A6;
+    border-radius: 7px;
+    color: #001219;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
+}
+.agregar_btn{
+    background-color: #e9d8a600;
+    color: #06c5c9;
+    border-color: #e9d8a600;
+    text-align: center;
+    font-size: 20px;
+    margin-right: 20px;
+}
+
+
+.contenedor{
+    width: 100%;
+    height: 100%;
+    padding-bottom: 100px;
+    margin: auto;
+    display: flex;
+}
+
+.ingresos{
+    margin: auto;
+    align-items: center;
+}
+.ingreso_titulo{
+    color: #001219;
+    font-size: 30px;
+    padding-left: 70px;
+}
+.elemento{
+    background-color: #E9D8A6;
+    text-align: center;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 1px;
+    width: 535px;
+    height: 40px;
+    align-items: center;
+}
+.elemento_descripcion{
+    color: #001219;
+    padding-left: 15px;
+    font-size: 15px;
+}
+.elemento_valor{
+    color: #001219;
+    font-size: 15px;
+    padding-right: 20px;
+}
+.elemento_eliminar{
+    padding-right: 20px;
+    padding-left: 7px;
+}
+.elemento_eliminar_btn{
+    background-color: #E9D8A6;
+    color:#9B2226;
+    border-color: #9B2226;
+    border-radius: 20px;
+}
+
+.egresos{
+    margin: auto;
+    align-items: center;
+}
+.egreso_titulo{
+    color: #001219;
+    font-size: 30px;
+    padding-left: 70px;
+}
+.elemento_porcentaje{
+    padding-right: 5px;
+    background-color: #CA6702;
+    border-radius: 5px;
+    margin:auto
+}
+

@@ -1,0 +1,12 @@
+
+Desarrolladores{
+    Laura Yuliana Carrillo Almeida
+    Will Defredsho Arnache Dorias
+}
+Diseñadores{
+    Laura Yuliana Carrillo Almeida
+    Will Defredsho Arnache Dorias
+}
+MaterialDeApoyo{
+    Carlos Carrascal
+}
